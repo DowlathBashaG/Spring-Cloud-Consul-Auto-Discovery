@@ -2,6 +2,13 @@
 
 # Difference between Eureka Server and HashiCorp Consul
 
+Eureka Server:
+
+![Eur_1](https://user-images.githubusercontent.com/9671419/85754832-05fa7c00-b72b-11ea-9dee-625ee5847cba.JPG)
+
+Consul:
+
+![consu_2](https://user-images.githubusercontent.com/9671419/85754913-1a3e7900-b72b-11ea-8c15-0a1ff5ad0332.JPG)
 
 Step 1:
 
