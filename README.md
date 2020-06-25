@@ -33,3 +33,13 @@ Step 4:
 Launch consul in brower using default port number for consul : 8500.
 
 http://localhost:8500/
+
+Step 5:
+
+A. Run the application - Greeting
+
+B. Run the application - User Service
+
+Now you can see the both services automatically register in Consul. Its based on Discovery Client register the services.
+
+
