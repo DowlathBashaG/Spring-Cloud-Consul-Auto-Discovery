@@ -42,3 +42,10 @@ Now you can see the both services automatically register in Consul. Its based on
 
 ![ServiceDiscovery](https://user-images.githubusercontent.com/9671419/85753956-51f8f100-b72a-11ea-90c6-b9a9ded4ebac.PNG)
 
+Step 6:
+
+Access greeting service inside user service.
+
+http://localhost:8282/accessAPI
+
+
