@@ -12,8 +12,6 @@ Check ipaddress in your system.
 
 ![ipadd_2](https://user-images.githubusercontent.com/9671419/85619675-4224d280-b680-11ea-983d-401b01d3cf28.PNG)
 
-
-
 Step 3:
 
 Execute the blow command along with ip address.
@@ -42,4 +40,5 @@ B. Run the application - User Service
 
 Now you can see the both services automatically register in Consul. Its based on Discovery Client register the services.
 
+![ServiceDiscovery](https://user-images.githubusercontent.com/9671419/85753956-51f8f100-b72a-11ea-90c6-b9a9ded4ebac.PNG)
 
