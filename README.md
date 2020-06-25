@@ -1,4 +1,8 @@
 # Spring-Cloud-Consul-Auto-Discovery
+
+# Difference between Eureka Server and HashiCorp Consul
+
+
 Step 1:
 
 Download from : https://www.consul.io/
