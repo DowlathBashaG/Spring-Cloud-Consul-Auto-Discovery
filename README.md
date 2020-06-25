@@ -48,4 +48,5 @@ Access greeting service inside user service.
 
 http://localhost:8282/accessAPI
 
+![userService](https://user-images.githubusercontent.com/9671419/85754475-b5831e80-b72a-11ea-9fd4-18d458148430.PNG)
 
